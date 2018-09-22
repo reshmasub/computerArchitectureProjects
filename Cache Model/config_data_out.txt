@@ -1,0 +1,1440 @@
+****************************************************
+Cache Size: 1024 Cache Line Size: 2 Associativity: 1
+Total Number of Cache Accesses: 87091
+Number of Hits:                 51689
+Number of Misses:               35402
+Number of clock cycles:         582719
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.59351
+IPC:                            0.09912
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 4 Associativity: 1
+Total Number of Cache Accesses: 47087
+Number of Hits:                 26993
+Number of Misses:               20094
+Number of clock cycles:         328403
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.57326
+IPC:                            0.17588
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 8 Associativity: 1
+Total Number of Cache Accesses: 29713
+Number of Hits:                 17362
+Number of Misses:               12351
+Number of clock cycles:         202627
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.58432
+IPC:                            0.28506
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 16 Associativity: 1
+Total Number of Cache Accesses: 21215
+Number of Hits:                 12860
+Number of Misses:               8355
+Number of clock cycles:         138185
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.60617
+IPC:                            0.41799
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 32 Associativity: 1
+Total Number of Cache Accesses: 12253
+Number of Hits:                 6304
+Number of Misses:               5949
+Number of clock cycles:         95539
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.51449
+IPC:                            0.60457
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 64 Associativity: 1
+Total Number of Cache Accesses: 9282
+Number of Hits:                 4040
+Number of Misses:               5242
+Number of clock cycles:         82670
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.43525
+IPC:                            0.69868
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 2 Associativity: 2
+Total Number of Cache Accesses: 87091
+Number of Hits:                 55224
+Number of Misses:               31867
+Number of clock cycles:         533229
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.63410
+IPC:                            0.10832
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 4 Associativity: 2
+Total Number of Cache Accesses: 47087
+Number of Hits:                 29074
+Number of Misses:               18013
+Number of clock cycles:         299269
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.61745
+IPC:                            0.19300
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 8 Associativity: 2
+Total Number of Cache Accesses: 29709
+Number of Hits:                 18397
+Number of Misses:               11312
+Number of clock cycles:         188077
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.61924
+IPC:                            0.30711
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 16 Associativity: 2
+Total Number of Cache Accesses: 21150
+Number of Hits:                 13179
+Number of Misses:               7971
+Number of clock cycles:         132744
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.62312
+IPC:                            0.43512
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 32 Associativity: 2
+Total Number of Cache Accesses: 12174
+Number of Hits:                 6472
+Number of Misses:               5702
+Number of clock cycles:         92002
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.53162
+IPC:                            0.62781
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 64 Associativity: 2
+Total Number of Cache Accesses: 8547
+Number of Hits:                 3956
+Number of Misses:               4591
+Number of clock cycles:         72821
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.46285
+IPC:                            0.79318
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 2 Associativity: 4
+Total Number of Cache Accesses: 87090
+Number of Hits:                 64309
+Number of Misses:               22781
+Number of clock cycles:         406024
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.73842
+IPC:                            0.14226
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 4 Associativity: 4
+Total Number of Cache Accesses: 46982
+Number of Hits:                 35349
+Number of Misses:               11633
+Number of clock cycles:         209844
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.75239
+IPC:                            0.27525
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 8 Associativity: 4
+Total Number of Cache Accesses: 29500
+Number of Hits:                 21681
+Number of Misses:               7819
+Number of clock cycles:         138966
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.73495
+IPC:                            0.41564
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 16 Associativity: 4
+Total Number of Cache Accesses: 20947
+Number of Hits:                 15056
+Number of Misses:               5891
+Number of clock cycles:         103421
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.71877
+IPC:                            0.55849
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 32 Associativity: 4
+Total Number of Cache Accesses: 11723
+Number of Hits:                 7103
+Number of Misses:               4620
+Number of clock cycles:         76403
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.60590
+IPC:                            0.75599
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 64 Associativity: 4
+Total Number of Cache Accesses: 7479
+Number of Hits:                 3323
+Number of Misses:               4156
+Number of clock cycles:         65663
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.44431
+IPC:                            0.87964
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 2 Associativity: 8
+Total Number of Cache Accesses: 87038
+Number of Hits:                 68179
+Number of Misses:               18859
+Number of clock cycles:         351064
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.78332
+IPC:                            0.16453
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 4 Associativity: 8
+Total Number of Cache Accesses: 46848
+Number of Hits:                 35760
+Number of Misses:               11088
+Number of clock cycles:         202080
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.76332
+IPC:                            0.28583
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 8 Associativity: 8
+Total Number of Cache Accesses: 29342
+Number of Hits:                 21865
+Number of Misses:               7477
+Number of clock cycles:         134020
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.74518
+IPC:                            0.43098
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 16 Associativity: 8
+Total Number of Cache Accesses: 20419
+Number of Hits:                 14821
+Number of Misses:               5598
+Number of clock cycles:         98791
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.72584
+IPC:                            0.58467
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 32 Associativity: 8
+Total Number of Cache Accesses: 11118
+Number of Hits:                 6731
+Number of Misses:               4387
+Number of clock cycles:         72536
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.60541
+IPC:                            0.79629
+****************************************************
+****************************************************
+Cache Size: 1024 Cache Line Size: 64 Associativity: 8
+Total Number of Cache Accesses: 6735
+Number of Hits:                 2678
+Number of Misses:               4057
+Number of clock cycles:         63533
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.39762
+IPC:                            0.90913
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 2 Associativity: 1
+Total Number of Cache Accesses: 87091
+Number of Hits:                 69098
+Number of Misses:               17993
+Number of clock cycles:         338993
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.79340
+IPC:                            0.17039
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 4 Associativity: 1
+Total Number of Cache Accesses: 47087
+Number of Hits:                 36746
+Number of Misses:               10341
+Number of clock cycles:         191861
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.78039
+IPC:                            0.30105
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 8 Associativity: 1
+Total Number of Cache Accesses: 29713
+Number of Hits:                 23082
+Number of Misses:               6631
+Number of clock cycles:         122547
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.77683
+IPC:                            0.47133
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 16 Associativity: 1
+Total Number of Cache Accesses: 21215
+Number of Hits:                 16798
+Number of Misses:               4417
+Number of clock cycles:         83053
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.79180
+IPC:                            0.69546
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 32 Associativity: 1
+Total Number of Cache Accesses: 12253
+Number of Hits:                 9178
+Number of Misses:               3075
+Number of clock cycles:         55303
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.74904
+IPC:                            1.04443
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 64 Associativity: 1
+Total Number of Cache Accesses: 9282
+Number of Hits:                 6222
+Number of Misses:               3060
+Number of clock cycles:         52122
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.67033
+IPC:                            1.10817
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 2 Associativity: 2
+Total Number of Cache Accesses: 87091
+Number of Hits:                 68629
+Number of Misses:               18462
+Number of clock cycles:         345559
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.78801
+IPC:                            0.16715
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 4 Associativity: 2
+Total Number of Cache Accesses: 47087
+Number of Hits:                 36609
+Number of Misses:               10478
+Number of clock cycles:         193779
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.77748
+IPC:                            0.29807
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 8 Associativity: 2
+Total Number of Cache Accesses: 29711
+Number of Hits:                 23157
+Number of Misses:               6554
+Number of clock cycles:         121467
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.77941
+IPC:                            0.47552
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 16 Associativity: 2
+Total Number of Cache Accesses: 21214
+Number of Hits:                 16252
+Number of Misses:               4962
+Number of clock cycles:         90682
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.76610
+IPC:                            0.63695
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 32 Associativity: 2
+Total Number of Cache Accesses: 12251
+Number of Hits:                 9152
+Number of Misses:               3099
+Number of clock cycles:         55637
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.74704
+IPC:                            1.03816
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 64 Associativity: 2
+Total Number of Cache Accesses: 8939
+Number of Hits:                 5831
+Number of Misses:               3108
+Number of clock cycles:         52451
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.65231
+IPC:                            1.10122
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 2 Associativity: 4
+Total Number of Cache Accesses: 87091
+Number of Hits:                 75578
+Number of Misses:               11513
+Number of clock cycles:         248273
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.86780
+IPC:                            0.23265
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 4 Associativity: 4
+Total Number of Cache Accesses: 47087
+Number of Hits:                 40872
+Number of Misses:               6215
+Number of clock cycles:         134097
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.86801
+IPC:                            0.43073
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 8 Associativity: 4
+Total Number of Cache Accesses: 29659
+Number of Hits:                 26247
+Number of Misses:               3412
+Number of clock cycles:         77427
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.88496
+IPC:                            0.74599
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 16 Associativity: 4
+Total Number of Cache Accesses: 21113
+Number of Hits:                 18659
+Number of Misses:               2454
+Number of clock cycles:         55469
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.88377
+IPC:                            1.04130
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 32 Associativity: 4
+Total Number of Cache Accesses: 12063
+Number of Hits:                 9976
+Number of Misses:               2087
+Number of clock cycles:         41281
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.82699
+IPC:                            1.39919
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 64 Associativity: 4
+Total Number of Cache Accesses: 8268
+Number of Hits:                 5999
+Number of Misses:               2269
+Number of clock cycles:         40034
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.72557
+IPC:                            1.44277
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 2 Associativity: 8
+Total Number of Cache Accesses: 87041
+Number of Hits:                 79140
+Number of Misses:               7901
+Number of clock cycles:         197655
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.90923
+IPC:                            0.29223
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 4 Associativity: 8
+Total Number of Cache Accesses: 46932
+Number of Hits:                 42298
+Number of Misses:               4634
+Number of clock cycles:         111808
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.90126
+IPC:                            0.51660
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 8 Associativity: 8
+Total Number of Cache Accesses: 29462
+Number of Hits:                 26531
+Number of Misses:               2931
+Number of clock cycles:         70496
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.90052
+IPC:                            0.81934
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 16 Associativity: 8
+Total Number of Cache Accesses: 20866
+Number of Hits:                 18677
+Number of Misses:               2189
+Number of clock cycles:         51512
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.89509
+IPC:                            1.12129
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 32 Associativity: 8
+Total Number of Cache Accesses: 11547
+Number of Hits:                 9736
+Number of Misses:               1811
+Number of clock cycles:         36901
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.84316
+IPC:                            1.56527
+****************************************************
+****************************************************
+Cache Size: 2048 Cache Line Size: 64 Associativity: 8
+Total Number of Cache Accesses: 7139
+Number of Hits:                 5020
+Number of Misses:               2119
+Number of clock cycles:         36805
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.70318
+IPC:                            1.56935
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 2 Associativity: 1
+Total Number of Cache Accesses: 87091
+Number of Hits:                 73804
+Number of Misses:               13287
+Number of clock cycles:         273109
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.84744
+IPC:                            0.21149
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 4 Associativity: 1
+Total Number of Cache Accesses: 47087
+Number of Hits:                 39594
+Number of Misses:               7493
+Number of clock cycles:         151989
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.84087
+IPC:                            0.38003
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 8 Associativity: 1
+Total Number of Cache Accesses: 29713
+Number of Hits:                 25138
+Number of Misses:               4575
+Number of clock cycles:         93763
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.84603
+IPC:                            0.61602
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 16 Associativity: 1
+Total Number of Cache Accesses: 21215
+Number of Hits:                 18427
+Number of Misses:               2788
+Number of clock cycles:         60247
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.86858
+IPC:                            0.95872
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 32 Associativity: 1
+Total Number of Cache Accesses: 12253
+Number of Hits:                 10430
+Number of Misses:               1823
+Number of clock cycles:         37775
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.85122
+IPC:                            1.52905
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 64 Associativity: 1
+Total Number of Cache Accesses: 9282
+Number of Hits:                 7533
+Number of Misses:               1749
+Number of clock cycles:         33768
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.81157
+IPC:                            1.71050
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 2 Associativity: 2
+Total Number of Cache Accesses: 87091
+Number of Hits:                 78171
+Number of Misses:               8920
+Number of clock cycles:         211971
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.89758
+IPC:                            0.27249
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 4 Associativity: 2
+Total Number of Cache Accesses: 47087
+Number of Hits:                 42201
+Number of Misses:               4886
+Number of clock cycles:         115491
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.89623
+IPC:                            0.50013
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 8 Associativity: 2
+Total Number of Cache Accesses: 29710
+Number of Hits:                 26788
+Number of Misses:               2922
+Number of clock cycles:         70618
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.90165
+IPC:                            0.81792
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 16 Associativity: 2
+Total Number of Cache Accesses: 21213
+Number of Hits:                 19319
+Number of Misses:               1894
+Number of clock cycles:         47729
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.91072
+IPC:                            1.21017
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 32 Associativity: 2
+Total Number of Cache Accesses: 12251
+Number of Hits:                 11038
+Number of Misses:               1213
+Number of clock cycles:         29233
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.90099
+IPC:                            1.97585
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 64 Associativity: 2
+Total Number of Cache Accesses: 9279
+Number of Hits:                 7963
+Number of Misses:               1316
+Number of clock cycles:         27703
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.85817
+IPC:                            2.08497
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 2 Associativity: 4
+Total Number of Cache Accesses: 87091
+Number of Hits:                 82030
+Number of Misses:               5061
+Number of clock cycles:         157945
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.94189
+IPC:                            0.36570
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 4 Associativity: 4
+Total Number of Cache Accesses: 47087
+Number of Hits:                 43556
+Number of Misses:               3531
+Number of clock cycles:         96521
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.92501
+IPC:                            0.59842
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 8 Associativity: 4
+Total Number of Cache Accesses: 29710
+Number of Hits:                 27942
+Number of Misses:               1768
+Number of clock cycles:         54462
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.94049
+IPC:                            1.06056
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 16 Associativity: 4
+Total Number of Cache Accesses: 21213
+Number of Hits:                 19856
+Number of Misses:               1357
+Number of clock cycles:         40211
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.93603
+IPC:                            1.43642
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 32 Associativity: 4
+Total Number of Cache Accesses: 12248
+Number of Hits:                 11548
+Number of Misses:               700
+Number of clock cycles:         22048
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.94285
+IPC:                            2.61974
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 64 Associativity: 4
+Total Number of Cache Accesses: 8651
+Number of Hits:                 7804
+Number of Misses:               847
+Number of clock cycles:         20509
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.90209
+IPC:                            2.81632
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 2 Associativity: 8
+Total Number of Cache Accesses: 87091
+Number of Hits:                 82333
+Number of Misses:               4758
+Number of clock cycles:         153703
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.94537
+IPC:                            0.37579
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 4 Associativity: 8
+Total Number of Cache Accesses: 47087
+Number of Hits:                 44560
+Number of Misses:               2527
+Number of clock cycles:         82465
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.94633
+IPC:                            0.70042
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 8 Associativity: 8
+Total Number of Cache Accesses: 29659
+Number of Hits:                 28182
+Number of Misses:               1477
+Number of clock cycles:         50337
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95020
+IPC:                            1.14747
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 16 Associativity: 8
+Total Number of Cache Accesses: 21085
+Number of Hits:                 20165
+Number of Misses:               920
+Number of clock cycles:         33965
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95637
+IPC:                            1.70057
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 32 Associativity: 8
+Total Number of Cache Accesses: 12006
+Number of Hits:                 11406
+Number of Misses:               600
+Number of clock cycles:         20406
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95002
+IPC:                            2.83054
+****************************************************
+****************************************************
+Cache Size: 4096 Cache Line Size: 64 Associativity: 8
+Total Number of Cache Accesses: 8054
+Number of Hits:                 7405
+Number of Misses:               649
+Number of clock cycles:         17140
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.91942
+IPC:                            3.36989
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 2 Associativity: 1
+Total Number of Cache Accesses: 87091
+Number of Hits:                 74756
+Number of Misses:               12335
+Number of clock cycles:         259781
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.85837
+IPC:                            0.22234
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 4 Associativity: 1
+Total Number of Cache Accesses: 47087
+Number of Hits:                 40192
+Number of Misses:               6895
+Number of clock cycles:         143617
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.85357
+IPC:                            0.40218
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 8 Associativity: 1
+Total Number of Cache Accesses: 29713
+Number of Hits:                 25591
+Number of Misses:               4122
+Number of clock cycles:         87421
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.86127
+IPC:                            0.66071
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 16 Associativity: 1
+Total Number of Cache Accesses: 21215
+Number of Hits:                 18840
+Number of Misses:               2375
+Number of clock cycles:         54465
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.88805
+IPC:                            1.06050
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 32 Associativity: 1
+Total Number of Cache Accesses: 12253
+Number of Hits:                 10737
+Number of Misses:               1516
+Number of clock cycles:         33477
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.87628
+IPC:                            1.72536
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 64 Associativity: 1
+Total Number of Cache Accesses: 9282
+Number of Hits:                 7886
+Number of Misses:               1396
+Number of clock cycles:         28826
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.84960
+IPC:                            2.00375
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 2 Associativity: 2
+Total Number of Cache Accesses: 87091
+Number of Hits:                 82790
+Number of Misses:               4301
+Number of clock cycles:         147305
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95061
+IPC:                            0.39211
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 4 Associativity: 2
+Total Number of Cache Accesses: 47087
+Number of Hits:                 44857
+Number of Misses:               2230
+Number of clock cycles:         78307
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95264
+IPC:                            0.73761
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 8 Associativity: 2
+Total Number of Cache Accesses: 29710
+Number of Hits:                 28502
+Number of Misses:               1208
+Number of clock cycles:         46622
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95934
+IPC:                            1.23890
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 16 Associativity: 2
+Total Number of Cache Accesses: 21213
+Number of Hits:                 20456
+Number of Misses:               757
+Number of clock cycles:         31811
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96431
+IPC:                            1.81572
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 32 Associativity: 2
+Total Number of Cache Accesses: 12252
+Number of Hits:                 11747
+Number of Misses:               505
+Number of clock cycles:         19322
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95878
+IPC:                            2.98934
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 64 Associativity: 2
+Total Number of Cache Accesses: 9281
+Number of Hits:                 8872
+Number of Misses:               409
+Number of clock cycles:         15007
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95593
+IPC:                            3.84887
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 2 Associativity: 4
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83205
+Number of Misses:               3886
+Number of clock cycles:         141495
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95538
+IPC:                            0.40821
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 4 Associativity: 4
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45076
+Number of Misses:               2011
+Number of clock cycles:         75241
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95729
+IPC:                            0.76767
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 8 Associativity: 4
+Total Number of Cache Accesses: 29711
+Number of Hits:                 28593
+Number of Misses:               1118
+Number of clock cycles:         45363
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96237
+IPC:                            1.27328
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 16 Associativity: 4
+Total Number of Cache Accesses: 21213
+Number of Hits:                 20580
+Number of Misses:               633
+Number of clock cycles:         30075
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97016
+IPC:                            1.92053
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 32 Associativity: 4
+Total Number of Cache Accesses: 12250
+Number of Hits:                 11854
+Number of Misses:               396
+Number of clock cycles:         17794
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96767
+IPC:                            3.24604
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 64 Associativity: 4
+Total Number of Cache Accesses: 9275
+Number of Hits:                 8991
+Number of Misses:               284
+Number of clock cycles:         13251
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96938
+IPC:                            4.35892
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 2 Associativity: 8
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83359
+Number of Misses:               3732
+Number of clock cycles:         139339
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95715
+IPC:                            0.41453
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 4 Associativity: 8
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45118
+Number of Misses:               1969
+Number of clock cycles:         74653
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95818
+IPC:                            0.77371
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 8 Associativity: 8
+Total Number of Cache Accesses: 29711
+Number of Hits:                 28610
+Number of Misses:               1101
+Number of clock cycles:         45125
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96294
+IPC:                            1.28000
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 16 Associativity: 8
+Total Number of Cache Accesses: 21212
+Number of Hits:                 20585
+Number of Misses:               627
+Number of clock cycles:         29990
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97044
+IPC:                            1.92598
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 32 Associativity: 8
+Total Number of Cache Accesses: 12249
+Number of Hits:                 11850
+Number of Misses:               399
+Number of clock cycles:         17835
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96743
+IPC:                            3.23858
+****************************************************
+****************************************************
+Cache Size: 8192 Cache Line Size: 64 Associativity: 8
+Total Number of Cache Accesses: 8615
+Number of Hits:                 8337
+Number of Misses:               278
+Number of clock cycles:         12507
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96773
+IPC:                            4.61821
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 2 Associativity: 1
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83425
+Number of Misses:               3666
+Number of clock cycles:         138415
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95791
+IPC:                            0.41730
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 4 Associativity: 1
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45158
+Number of Misses:               1929
+Number of clock cycles:         74093
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95903
+IPC:                            0.77956
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 8 Associativity: 1
+Total Number of Cache Accesses: 29713
+Number of Hits:                 28670
+Number of Misses:               1043
+Number of clock cycles:         44315
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96490
+IPC:                            1.30340
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 16 Associativity: 1
+Total Number of Cache Accesses: 21215
+Number of Hits:                 20630
+Number of Misses:               585
+Number of clock cycles:         29405
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97243
+IPC:                            1.96429
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 32 Associativity: 1
+Total Number of Cache Accesses: 12253
+Number of Hits:                 11917
+Number of Misses:               336
+Number of clock cycles:         16957
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97258
+IPC:                            3.40626
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 64 Associativity: 1
+Total Number of Cache Accesses: 9282
+Number of Hits:                 9078
+Number of Misses:               204
+Number of clock cycles:         12138
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97802
+IPC:                            4.75861
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 2 Associativity: 2
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83408
+Number of Misses:               3683
+Number of clock cycles:         138653
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95771
+IPC:                            0.41658
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 4 Associativity: 2
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45147
+Number of Misses:               1940
+Number of clock cycles:         74247
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95880
+IPC:                            0.77794
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 8 Associativity: 2
+Total Number of Cache Accesses: 29710
+Number of Hits:                 28655
+Number of Misses:               1055
+Number of clock cycles:         44480
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96449
+IPC:                            1.29856
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 16 Associativity: 2
+Total Number of Cache Accesses: 21212
+Number of Hits:                 20623
+Number of Misses:               589
+Number of clock cycles:         29458
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97223
+IPC:                            1.96076
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 32 Associativity: 2
+Total Number of Cache Accesses: 12251
+Number of Hits:                 11903
+Number of Misses:               348
+Number of clock cycles:         17123
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97159
+IPC:                            3.37324
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 64 Associativity: 2
+Total Number of Cache Accesses: 9280
+Number of Hits:                 9068
+Number of Misses:               212
+Number of clock cycles:         12248
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97716
+IPC:                            4.71587
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 2 Associativity: 4
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83443
+Number of Misses:               3648
+Number of clock cycles:         138163
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95811
+IPC:                            0.41806
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 4 Associativity: 4
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45168
+Number of Misses:               1919
+Number of clock cycles:         73953
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95925
+IPC:                            0.78104
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 8 Associativity: 4
+Total Number of Cache Accesses: 29710
+Number of Hits:                 28675
+Number of Misses:               1035
+Number of clock cycles:         44200
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96516
+IPC:                            1.30679
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 16 Associativity: 4
+Total Number of Cache Accesses: 21212
+Number of Hits:                 20634
+Number of Misses:               578
+Number of clock cycles:         29304
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97275
+IPC:                            1.97106
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 32 Associativity: 4
+Total Number of Cache Accesses: 12251
+Number of Hits:                 11921
+Number of Misses:               330
+Number of clock cycles:         16871
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97306
+IPC:                            3.42363
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 64 Associativity: 4
+Total Number of Cache Accesses: 9279
+Number of Hits:                 9084
+Number of Misses:               195
+Number of clock cycles:         12009
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97898
+IPC:                            4.80973
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 2 Associativity: 8
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83443
+Number of Misses:               3648
+Number of clock cycles:         138163
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95811
+IPC:                            0.41806
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 4 Associativity: 8
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45168
+Number of Misses:               1919
+Number of clock cycles:         73953
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95925
+IPC:                            0.78104
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 8 Associativity: 8
+Total Number of Cache Accesses: 29710
+Number of Hits:                 28675
+Number of Misses:               1035
+Number of clock cycles:         44200
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96516
+IPC:                            1.30679
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 16 Associativity: 8
+Total Number of Cache Accesses: 21212
+Number of Hits:                 20635
+Number of Misses:               577
+Number of clock cycles:         29290
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97280
+IPC:                            1.97200
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 32 Associativity: 8
+Total Number of Cache Accesses: 12249
+Number of Hits:                 11921
+Number of Misses:               328
+Number of clock cycles:         16841
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97322
+IPC:                            3.42973
+****************************************************
+****************************************************
+Cache Size: 16384 Cache Line Size: 64 Associativity: 8
+Total Number of Cache Accesses: 9275
+Number of Hits:                 9082
+Number of Misses:               193
+Number of clock cycles:         11977
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97919
+IPC:                            4.82258
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 2 Associativity: 1
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83443
+Number of Misses:               3648
+Number of clock cycles:         138163
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95811
+IPC:                            0.41806
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 4 Associativity: 1
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45168
+Number of Misses:               1919
+Number of clock cycles:         73953
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95925
+IPC:                            0.78104
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 8 Associativity: 1
+Total Number of Cache Accesses: 29713
+Number of Hits:                 28678
+Number of Misses:               1035
+Number of clock cycles:         44203
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96517
+IPC:                            1.30670
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 16 Associativity: 1
+Total Number of Cache Accesses: 21215
+Number of Hits:                 20638
+Number of Misses:               577
+Number of clock cycles:         29293
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97280
+IPC:                            1.97180
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 32 Associativity: 1
+Total Number of Cache Accesses: 12253
+Number of Hits:                 11925
+Number of Misses:               328
+Number of clock cycles:         16845
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97323
+IPC:                            3.42891
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 64 Associativity: 1
+Total Number of Cache Accesses: 9282
+Number of Hits:                 9089
+Number of Misses:               193
+Number of clock cycles:         11984
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97921
+IPC:                            4.81976
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 2 Associativity: 2
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83443
+Number of Misses:               3648
+Number of clock cycles:         138163
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95811
+IPC:                            0.41806
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 4 Associativity: 2
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45168
+Number of Misses:               1919
+Number of clock cycles:         73953
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95925
+IPC:                            0.78104
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 8 Associativity: 2
+Total Number of Cache Accesses: 29713
+Number of Hits:                 28678
+Number of Misses:               1035
+Number of clock cycles:         44203
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96517
+IPC:                            1.30670
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 16 Associativity: 2
+Total Number of Cache Accesses: 21215
+Number of Hits:                 20638
+Number of Misses:               577
+Number of clock cycles:         29293
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97280
+IPC:                            1.97180
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 32 Associativity: 2
+Total Number of Cache Accesses: 12253
+Number of Hits:                 11925
+Number of Misses:               328
+Number of clock cycles:         16845
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97323
+IPC:                            3.42891
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 64 Associativity: 2
+Total Number of Cache Accesses: 9282
+Number of Hits:                 9089
+Number of Misses:               193
+Number of clock cycles:         11984
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97921
+IPC:                            4.81976
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 2 Associativity: 4
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83443
+Number of Misses:               3648
+Number of clock cycles:         138163
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95811
+IPC:                            0.41806
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 4 Associativity: 4
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45168
+Number of Misses:               1919
+Number of clock cycles:         73953
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95925
+IPC:                            0.78104
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 8 Associativity: 4
+Total Number of Cache Accesses: 29710
+Number of Hits:                 28675
+Number of Misses:               1035
+Number of clock cycles:         44200
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96516
+IPC:                            1.30679
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 16 Associativity: 4
+Total Number of Cache Accesses: 21212
+Number of Hits:                 20635
+Number of Misses:               577
+Number of clock cycles:         29290
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97280
+IPC:                            1.97200
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 32 Associativity: 4
+Total Number of Cache Accesses: 12250
+Number of Hits:                 11922
+Number of Misses:               328
+Number of clock cycles:         16842
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97322
+IPC:                            3.42952
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 64 Associativity: 4
+Total Number of Cache Accesses: 9279
+Number of Hits:                 9086
+Number of Misses:               193
+Number of clock cycles:         11981
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97920
+IPC:                            4.82097
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 2 Associativity: 8
+Total Number of Cache Accesses: 87091
+Number of Hits:                 83443
+Number of Misses:               3648
+Number of clock cycles:         138163
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95811
+IPC:                            0.41806
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 4 Associativity: 8
+Total Number of Cache Accesses: 47087
+Number of Hits:                 45168
+Number of Misses:               1919
+Number of clock cycles:         73953
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.95925
+IPC:                            0.78104
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 8 Associativity: 8
+Total Number of Cache Accesses: 29710
+Number of Hits:                 28675
+Number of Misses:               1035
+Number of clock cycles:         44200
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.96516
+IPC:                            1.30679
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 16 Associativity: 8
+Total Number of Cache Accesses: 21212
+Number of Hits:                 20635
+Number of Misses:               577
+Number of clock cycles:         29290
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97280
+IPC:                            1.97200
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 32 Associativity: 8
+Total Number of Cache Accesses: 12250
+Number of Hits:                 11922
+Number of Misses:               328
+Number of clock cycles:         16842
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97322
+IPC:                            3.42952
+****************************************************
+****************************************************
+Cache Size: 32768 Cache Line Size: 64 Associativity: 8
+Total Number of Cache Accesses: 9279
+Number of Hits:                 9086
+Number of Misses:               193
+Number of clock cycles:         11981
+Number of Instructions Fetched: 57760
+Hit Ratio:                      0.97920
+IPC:                            4.82097
+****************************************************
